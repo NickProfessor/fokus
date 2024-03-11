@@ -1,5 +1,12 @@
-# Fokus
 
+
+![image](https://github.com/NickProfessor/fokus/assets/120290682/77bfabab-5a50-40f1-bb1c-49a67e57cf2d)
+![image](https://github.com/NickProfessor/fokus/assets/120290682/d8d57af5-7b1d-483d-9687-7477aa1d9144)
+![image](https://github.com/NickProfessor/fokus/assets/120290682/4b6ce6b4-13ff-4404-8e96-4796b2c8fce4)
+![image](https://github.com/NickProfessor/fokus/assets/120290682/4df35522-4864-4909-8bac-a4e48aed21f2)
+
+
+# Fokus
 Fokus é uma página web projetada para imitar a técnica Pomodoro, um método de gerenciamento de tempo desenvolvido por Francesco Cirillo no final dos anos 80. Esta técnica utiliza um cronômetro para dividir o trabalho em intervalos, tradicionalmente com duração de 25 minutos, separados por curtas pausas.
 
 Fokus foi criado durante meus estudos de programação, onde aprendi a manipular elementos do DOM e interagir diretamente com o localStorage em JavaScript.
