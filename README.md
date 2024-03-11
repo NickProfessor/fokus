@@ -21,6 +21,8 @@ git clone https://github.com/seu-usuario/fokus.git
 cd fokus
 ```
 
+Ou acesse o link: <a href="https://fokus-sable-nine.vercel.app"> Projeto Fokus </a>
+
 ## Uso
 
 1. Abra `index.html` em seu navegador da web preferido.
